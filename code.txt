@@ -1,0 +1,6 @@
+Let x = 0 ;
+Let y = 1 ;
+x = x + 2 ; 
+y = y + 7 ;
+Print [y] ;
+Print [x] ; 
